@@ -1,6 +1,6 @@
 # dedekind-kummer-theorem
 
-This is a Repo on which I am planning (as soon as I find some time to organise it!) to store some of the code I wrote in Lean during summer 2021 to prove the [Dedekind-Kummer theorem](https://kconrad.math.uconn.edu/blurbs/gradnumthy/dedekindf.pdf). 
+This is a repo on which I am planning (as soon as I find some time to organise it!) to store some of the code I wrote in Lean during summer 2021 to prove the [Dedekind-Kummer theorem](https://kconrad.math.uconn.edu/blurbs/gradnumthy/dedekindf.pdf). 
 
 Most of what I wrote have already made its way into mathlib :
 - [Results about sums of ideals in Dedekind domains](https://github.com/leanprover-community/mathlib/pull/9055), 
